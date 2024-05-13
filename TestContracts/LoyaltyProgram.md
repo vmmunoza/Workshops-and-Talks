@@ -1,6 +1,8 @@
 # Demo and test of a base smart contract for a Loyalty Program using Remix IDE. 
 
 You'll need to have either test Metis (on Sepolia), or real Metis tokens (on Andromeda) in order to deploy.
+
+
 [Here's a short tutorial on how to get Metis test tokens](https://twitter.com/Quantic___/status/1788536128464650581)
 
 ### Step 1: Preparing the Environment in Remix
