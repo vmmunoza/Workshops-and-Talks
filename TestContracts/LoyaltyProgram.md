@@ -80,7 +80,7 @@ Once deployed:
 - You can interact with the contract functions directly from the "Deployed Contracts" section in Remix.
 - Use the functions like `issuePoints`, `transferPoints`, and `redeemPoints` by providing necessary arguments and clicking the respective buttons.
 
-### Step 6: Testing Script
+### Testing Script:
 
 Here is a simple script to test your contract functionalities using JavaScript in Remix:
 
