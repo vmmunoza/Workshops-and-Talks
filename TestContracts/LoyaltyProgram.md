@@ -8,12 +8,11 @@ You'll need to have either test Metis (on Sepolia), or real Metis tokens (on And
 ### Step 1: Preparing the Environment in Remix
 
 1. **Open Remix**: Go to [Remix Ethereum IDE](https://remix.ethereum.org) in your browser. Remix is a powerful, browser-based development environment.
-2. **Create a New File**: In the 'File Explorers' tab, create a new file by clicking on the "Create New File" icon. Name it, for example, `LoyaltyProgram.sol`.
-3. **Paste the Contract Code**: Copy the LoyaltyProgram contract code provided previously into this new file.
+2. **Create a New File**: In the 'File Explorers' tab, create a new file by clicking on the "Create New File" icon. Name it `LoyaltyProgram.sol`.
 
 ### Step 2: Creating the Smart Contract
 
-Here’s the `LoyaltyProgram.sol` contract :
+Copy the LoyaltyProgram contract code provided below. Here’s the `LoyaltyProgram.sol` contract :
 
 ```solidity
 // SPDX-License-Identifier: MIT
